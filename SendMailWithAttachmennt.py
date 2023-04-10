@@ -6,7 +6,7 @@ from email import encoders
 
 def sendMail():
     fromEmail = "Sidheshwarj2001@gmail.com"
-    EmailPawword = "evogucrtwpjcknco"
+    EmailPawword = ""
     sendToEmail = "Sidjawale007@gmail.com"
 
     # making instance of multipart
