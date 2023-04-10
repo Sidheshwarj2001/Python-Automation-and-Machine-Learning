@@ -1,0 +1,434 @@
+----------------------------------------
+sid process logger Thu Dec  1 16:37:59 2022
+----------------------------------------
+----------------------------------------
+{'pid': 0, 'name': 'System Idle Process', 'username': 'NT AUTHORITY\\SYSTEM'}
+ ----------------------------------------
+{'pid': 4, 'name': 'System', 'username': 'NT AUTHORITY\\SYSTEM'}
+ ----------------------------------------
+{'pid': 124, 'name': 'Registry', 'username': None}
+ ----------------------------------------
+{'pid': 376, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 432, 'name': 'services.exe', 'username': None}
+ ----------------------------------------
+{'pid': 496, 'name': 'smss.exe', 'username': None}
+ ----------------------------------------
+{'pid': 752, 'name': 'lsass.exe', 'username': None}
+ ----------------------------------------
+{'pid': 824, 'name': 'csrss.exe', 'username': None}
+ ----------------------------------------
+{'pid': 984, 'name': 'wininit.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1088, 'name': 'fontdrvhost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1172, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1224, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1240, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1280, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1340, 'name': 'TiWorker.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1444, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1448, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1468, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1560, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1568, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1644, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1692, 'name': 'TrustedInstaller.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1696, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1804, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1808, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 1812, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1840, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1864, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1920, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 1928, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2020, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2084, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2116, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2124, 'name': 'NVDisplay.Container.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2196, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2204, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2232, 'name': 'AsusSoftwareManager.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2300, 'name': 'MemCompression', 'username': None}
+ ----------------------------------------
+{'pid': 2324, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2380, 'name': 'dasHost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2408, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2528, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2564, 'name': 'atiesrxx.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2640, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2720, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2748, 'name': 'WmiPrvSE.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2764, 'name': 'SgrmBroker.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2848, 'name': 'ApplicationFrameHost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 2924, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2932, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 2948, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3052, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3060, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3200, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3220, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3352, 'name': 'StartMenuExperienceHost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 3360, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3440, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3468, 'name': 'SearchIndexer.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3580, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3616, 'name': 'rundll32.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 3736, 'name': 'AsusOptimization.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3760, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3768, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3864, 'name': 'spoolsv.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3908, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 3944, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 3980, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4032, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4068, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4112, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4176, 'name': 'dwm.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4196, 'name': 'AsusSystemDiagnosis.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4208, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4412, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4452, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4468, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4476, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4484, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4492, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4500, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4508, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4516, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4612, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4624, 'name': 'AdobeUpdateService.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4656, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4720, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4728, 'name': 'DTSAPO3Service.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4748, 'name': 'nvcontainer.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4756, 'name': 'vmware-usbarbitrator64.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4768, 'name': 'RtkAudUService64.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4776, 'name': 'NvTelemetryContainer.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4784, 'name': 'vmnetdhcp.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4792, 'name': 'vmnat.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4796, 'name': 'vmware-authd.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4816, 'name': 'RtkBtManServ.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4828, 'name': 'AsusAppService.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4960, 'name': 'winlogon.exe', 'username': None}
+ ----------------------------------------
+{'pid': 4984, 'name': 'sihost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 5016, 'name': 'ROGLiveService.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5024, 'name': 'nvcontainer.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 5036, 'name': 'ArmouryCrate.Service.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5140, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5200, 'name': 'AsusSwitch.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5220, 'name': 'AsusLinkNear.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5228, 'name': 'AsusLinkRemote.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5260, 'name': 'mysqld.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5328, 'name': 'AsusSystemAnalysis.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5392, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5432, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5628, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5664, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5704, 'name': 'unsecapp.exe', 'username': None}
+ ----------------------------------------
+{'pid': 5956, 'name': 'GoogleCrashHandler.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 6104, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 6216, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 6232, 'name': 'ArmourySocketServer.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 6312, 'name': 'dllhost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 6396, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 6416, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 6836, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 6956, 'name': 'mysqld.exe', 'username': None}
+ ----------------------------------------
+{'pid': 6964, 'name': 'conhost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 7192, 'name': 'svchost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 7336, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 7448, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 7496, 'name': 'svchost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 7524, 'name': 'msedge.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 7648, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 8080, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 8196, 'name': 'explorer.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 8480, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 8564, 'name': 'svchost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 8704, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 9148, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 9312, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 9424, 'name': 'atieclxx.exe', 'username': None}
+ ----------------------------------------
+{'pid': 9528, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 9604, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 9648, 'name': 'UserOOBEBroker.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 10144, 'name': 'SecurityHealthService.exe', 'username': None}
+ ----------------------------------------
+{'pid': 10328, 'name': 'RuntimeBroker.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 10408, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 10484, 'name': 'GoogleCrashHandler64.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 10524, 'name': 'P508PowerAgent.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 10596, 'name': 'RuntimeBroker.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 10652, 'name': 'ArmouryCrate.UserSessionHelper.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 10692, 'name': 'notepad.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 10740, 'name': 'csrss.exe', 'username': None}
+ ----------------------------------------
+{'pid': 10892, 'name': 'ShellExperienceHost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 10928, 'name': 'fontdrvhost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 11092, 'name': 'conhost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 11300, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 11304, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 11368, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 11420, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 12084, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 12108, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 12148, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 12216, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 12284, 'name': 'python.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 12364, 'name': 'fodhelper.exe', 'username': None}
+ ----------------------------------------
+{'pid': 12392, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 12740, 'name': 'NVDisplay.Container.exe', 'username': None}
+ ----------------------------------------
+{'pid': 13100, 'name': 'conhost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 13632, 'name': 'asus_framework.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 13836, 'name': 'taskhostw.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 13900, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 13984, 'name': 'AsusOSD.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 14176, 'name': 'fsnotifier.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 14272, 'name': 'SearchApp.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 14596, 'name': 'dllhost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 14696, 'name': 'msedge.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 14812, 'name': 'pycharm64.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 14848, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 15112, 'name': 'AsusSoftwareManagerAgent.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 15140, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 15184, 'name': 'RuntimeBroker.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 15248, 'name': 'wmpnetwk.exe', 'username': None}
+ ----------------------------------------
+{'pid': 15284, 'name': 'powershell.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 15312, 'name': 'svchost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 15484, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 15632, 'name': 'conhost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 15696, 'name': 'svchost.exe', 'username': None}
+ ----------------------------------------
+{'pid': 15804, 'name': 'jcef_helper.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 15868, 'name': 'msedge.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 15888, 'name': 'svchost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 16088, 'name': 'svchost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 16184, 'name': 'conhost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 16244, 'name': 'TextInputHost.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 16564, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 16960, 'name': 'RuntimeBroker.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 17044, 'name': 'jcef_helper.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 17312, 'name': 'SecurityHealthSystray.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 17520, 'name': 'LockApp.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 17576, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 17632, 'name': 'taskhostw.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 17872, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 18004, 'name': 'ctfmon.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 18240, 'name': 'AsusOptimizationStartupTask.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 18264, 'name': 'jcef_helper.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 18344, 'name': 'ArmourySwAgent.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 18380, 'name': 'RtkAudUService64.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 18528, 'name': 'cmd.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 19108, 'name': 'RuntimeBroker.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 19204, 'name': 'Microsoft.Photos.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 19684, 'name': 'pycharm64.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 21052, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 21584, 'name': 'msedge.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 21608, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 22268, 'name': 'msedge.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 22380, 'name': 'audiodg.exe', 'username': None}
+ ----------------------------------------
+{'pid': 22704, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 22756, 'name': 'HelpPane.exe', 'username': 'SID\\91774'}
+ ----------------------------------------
+{'pid': 23252, 'name': 'chrome.exe', 'username': 'SID\\91774'}
+ 

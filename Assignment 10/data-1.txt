@@ -1,0 +1,4 @@
+Inside Direcctory watcher method
+Name of input Directory is : A
+A1.txt
+A2.txt
